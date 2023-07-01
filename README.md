@@ -4,7 +4,6 @@
 
 [下载地址](https://github.com/Rirock/yjwujian/releases/download/game/NARAKA_VoiceModify_v1.0.0.exe)
 
-
 ## 使用教程：
 * 双击打开软件（NARAKA_VoiceModify_v1.0.0.exe）
 * **选择**游戏路径，可以通过右键游戏快捷方式打开文件位置的方式找到。游戏路径如：D:\steam\steamapps\common\NARAKA BLADEPOINT\StartGame.exe
@@ -13,4 +12,4 @@
 * 修改完成后打开游戏即为日语语音
 * 如果想改回中文，点击**还原中文**即可
 
-通过本软件修改游戏本地语音的行为不会造成封号。如出现语音错误等问题可以
+通过本软件修改游戏本地语音的行为不会造成封号。如出现语音错误等问题可以通过检测游戏完整性等方式还原游戏文件
