@@ -3,7 +3,8 @@
 更新时间 2023-07-02
 
 
-[下载地址](https://github.com/Rirock/yjwujian/releases/download/game/NARAKA_VoiceModify_v1.0.0.exe)
+[下载地址](https://github.com/Rirock/yjwujian/releases/download/game/NARAKA_VoiceModify_v1.0.0.exe) | [下载地址2](https://wwr.lanzouh.com/iWnmM112ht7i)
+
 
 ## 使用教程：
 * 双击打开软件（NARAKA_VoiceModify_v1.0.0.exe）
