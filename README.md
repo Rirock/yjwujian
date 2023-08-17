@@ -1,6 +1,6 @@
 # 永劫无间 日语语音包替换
 
-更新时间 2023-07-02
+更新时间 2023-08-18
 
 
 [下载地址](https://github.com/Rirock/yjwujian/releases/download/v1.1.1/NARAKA_VoiceModify_v1.1.1.exe) | [下载地址2](https://wwr.lanzouh.com/iWnmM112ht7i)
