@@ -1,9 +1,11 @@
 # 永劫无间 日语语音包替换
 
-更新时间 2023-08-18
+更新时间 2023-11-19
+
+当前版本最新英雄为：哈迪
 
 
-[下载地址](https://github.com/Rirock/yjwujian/releases/download/v1.1.1/NARAKA_VoiceModify_v1.1.1.exe) | [下载地址2](https://wwr.lanzouh.com/iWnmM112ht7i)
+[下载地址](https://github.com/Rirock/yjwujian/releases/download/v1.1.2/NARAKA_VoiceModify_v1.0.2.exe) | [下载地址2](https://wwr.lanzouh.com/iBTyN1fab6sh)
 
 
 ## 使用教程：
@@ -23,6 +25,7 @@
 2B语音包提供者：
 B站UP：[白叶Meteor](https://space.bilibili.com/772897)
 
+[2B语音包版本下载地址](https://github.com/Rirock/yjwujian/releases/download/v1.1.2/NARAKA_VoiceModify_v1.1.2.exe)  | [下载地址2](https://wwr.lanzouh.com/isr9x1fab6qf)
 
 -----
 喜欢可以支持一下，一分钱也是爱
