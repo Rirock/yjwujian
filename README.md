@@ -5,7 +5,7 @@
 当前版本最新英雄为：哈迪
 
 
-[下载地址](https://github.com/Rirock/yjwujian/releases/download/v1.1.2/NARAKA_VoiceModify_v1.0.2.exe) | [下载地址2](https://wwr.lanzouh.com/iBTyN1fab6sh)
+[GitHub下载](https://github.com/Rirock/yjwujian/releases/download/v1.1.2/NARAKA_VoiceModify_v1.0.2.exe) | [蓝奏云下载](https://wwr.lanzouh.com/iBTyN1fab6sh)
 
 
 ## 使用教程：
@@ -25,7 +25,7 @@
 2B语音包提供者：
 B站UP：[白叶Meteor](https://space.bilibili.com/772897)
 
-[2B语音包版本下载地址](https://github.com/Rirock/yjwujian/releases/download/v1.1.2/NARAKA_VoiceModify_v1.1.2.exe)  | [下载地址2](https://wwr.lanzouh.com/isr9x1fab6qf)
+[2B语音包版本下载地址](https://github.com/Rirock/yjwujian/releases/download/v1.1.2/NARAKA_VoiceModify_v1.1.2.exe)  | [蓝奏云下载](https://wwr.lanzouh.com/isr9x1fab6qf)
 
 -----
 喜欢可以支持一下，一分钱也是爱
