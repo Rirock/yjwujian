@@ -1,11 +1,11 @@
 # 永劫无间 日语语音包替换
 
-更新时间 2023-11-19
+更新时间 2024-2-3
 
-当前版本最新英雄为：哈迪
+当前版本最新英雄为：魏轻
 
 
-[GitHub下载](https://github.com/Rirock/yjwujian/releases/download/v1.1.2/NARAKA_VoiceModify_v1.0.2.exe) | [蓝奏云下载](https://wwr.lanzouh.com/iBTyN1fab6sh)
+[GitHub下载](https://github.com/Rirock/yjwujian/releases/download/v1.1.3/NARAKA_VoiceModify_v1.0.3.exe) | [蓝奏云下载](https://wwr.lanzouh.com/iBTyN1fab6sh)
 
 
 ## 使用教程：
