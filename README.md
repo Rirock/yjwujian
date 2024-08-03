@@ -1,12 +1,12 @@
 # 永劫无间 日语语音包替换
 
-更新时间 2024-6-16
+更新时间 2024-8-3
 
-当前版本最新英雄为：刘炼
+当前版本最新英雄为：张起灵
 
-当前版本可修改物理设置
+当前版本可修改物理设置（替换石头奶）
 
-[GitHub下载](https://github.com/Rirock/yjwujian/releases/download/v1.1.5/NARAKA_VoiceModify_v1.0.5.exe) | [蓝奏云下载](https://wwv.lanzouh.com/ivPgw20d646h)
+[GitHub下载](https://github.com/Rirock/yjwujian/releases/download/v1.1.6/NARAKA_VoiceModify_v1.0.6.exe) | [蓝奏云下载](https://wwv.lanzouh.com/ivPgw20d646h)
 
 
 ## 使用教程：
