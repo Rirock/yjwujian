@@ -29,6 +29,4 @@ B站UP：[白叶Meteor](https://space.bilibili.com/772897)
 [2B语音包版本下载地址](https://github.com/Rirock/yjwujian/releases/download/v1.1.2/NARAKA_VoiceModify_v1.1.2.exe)  | [蓝奏云下载](https://wwr.lanzouh.com/isr9x1fab6qf)
 
 -----
-喜欢可以支持一下，一分钱也是爱
-
-<img src="zz.jpg" width="300px">
+喜欢可以支持一下，点个star
